@@ -4,7 +4,7 @@
 - Author: Vinny Shankar
 - Acknowledgements:
     - Study Groups: worked together with several students to understand the assignment
-    - Classmates: Jed Miller and Hany Dief were instrumental in getting the api url's working properly
+    - Classmates: Jed Miller and Hany Dief were instrumental in getting the api url's working properly; Worked with Jesús Jiménez to understand the WeatherPy part of the assignment
     - Starter Code: the challenge gave us starter code which let us fill in the gaps in order to reach the desired outputs
     - Program: University of California Berkeley Data Analytics Bootcamp
 ### - Contents
